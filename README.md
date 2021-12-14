@@ -1,2 +1,2 @@
 # AC_Lab
-Attachment as a Multidimnsional Control System
+Attachment as a Multidimensional Control System
